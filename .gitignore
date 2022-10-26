@@ -13,6 +13,7 @@
 /storybook-static
 build-storybook.log
 .npmrc
+/dist
 
 # misc
 .DS_Store
