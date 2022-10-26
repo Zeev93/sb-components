@@ -1,7 +1,6 @@
 {
   "name": "aag-my-storybook-components-asdad",
   "version": "0.1.0",
-  "private": "false",
   "license": "MIT",
   "typings": "dist/index.d.ts",
   "homepage": "https://www.abrahamag93.com/",
