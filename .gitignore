@@ -12,7 +12,6 @@
 /build
 /storybook-static
 build-storybook.log
-.npmrc
 /dist
 
 # misc
