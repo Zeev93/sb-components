@@ -1,7 +1,7 @@
 {
   "name": "aag-my-storybook-components",
   "version": "0.1.0",
-  "private": false,
+  "private": "false",
   "license": "MIT",
   "typings": "dist/index.d.ts",
   "homepage": "https://www.abrahamag93.com/",
